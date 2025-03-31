@@ -94,7 +94,7 @@ li {
 .header__banner {
    
     flex-direction: row;
-    padding: 0rem 2rem;
+    padding: 0rem 6.5rem;
     justify-content: space-evenly;
 }
 
@@ -189,7 +189,7 @@ button a{
 .footer {
     min-height: 100px;
     background-color: var(--grey);
-    padding: 2rem;
+    padding: 2rem 6.5rem;
 }
 
 .footer h2 {
